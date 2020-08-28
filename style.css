@@ -34,12 +34,12 @@
 .letter {
   Width: 100%;
   Text-align: center;
-  Font-size: 20px;
+  Font-size: 28px;
 }
 
 .center {
   margin: auto;
-  Width: 60%;
+  Width: 75%;
   padding: 16px;
 }
 
