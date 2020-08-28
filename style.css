@@ -1,0 +1,78 @@
+.intro {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px gray, 0 0 0.5em gray;
+  background-image: url("clouds.jpeg");
+  Font-size: 28px;
+  Line-height: 20px;
+}
+
+#overflow {
+  overflow: scroll;
+}
+
+.pictures {
+  border-radius: 50%;
+  box-shadow: 5px 5px 6px gray, 0 0 0.2em gray;
+  Width: 175px;
+  Height: 175px;
+  display: inline-block;  
+  margin: 0 15px; 
+}
+
+.picture-parent {
+  text-align: center; 
+  Display: inline;
+}
+
+.small-pic {
+  Width: 100px;
+  Height: 100px;
+  Margin-bottom: 40px;
+}
+
+.letter {
+  Width: 100%;
+  Text-align: center;
+  Font-size: 20px;
+}
+
+.center {
+  margin: auto;
+  Width: 60%;
+  padding: 16px;
+}
+
+.video-parent-parent {
+  text-align: center;
+  Width: 60%;
+  Margin: auto;
+}
+
+.video-parent {
+  border-style: solid;
+  border-width: 3px; 
+  Width: 400px;
+  Height: 240px;
+  Margin: auto;
+  text-align: center;
+  Background-color: lavender;
+}
+
+.video {
+  Width: 400px;
+  Height: 240px;
+}
+
+#pic {
+  Display: inline-block;
+}
+
+#pic-heart {
+  Display: inline-block;
+  Margin-top: 15px;
+}
+
+#heart {
+  Font-size: 80px;
+}
